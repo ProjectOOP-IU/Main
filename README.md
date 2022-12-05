@@ -18,19 +18,61 @@
 
 ## 📖Table of contents
 
-* [About](*about)
-  * [General Information](*general-information)
-  * [Rules](*rules)
-  * [Members](*members)
-  * [Language](*language)
-* [Set Up](*set-up)
-  * [Launch](*launch)
-  * [License](*license)
-* [Features](*features)
-* [Project Status](*project-status)
-* [Acknowledgements](*acknowledgements)
-* [Read more](*read-more)
+* [About](#about)
+  * [General Information](#general-information)
+  * [Rules](#rules)
+  * [Members](#members)
+  * [Language](#language)
+* [Set Up](#set-up)
+  * [Launch](#launch)
+  * [License](#license)
+* [Features](#features)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
+* [Read more](#read-more)
 
 ---
   
 ## About
+
+### General Information
+  What ? <br>
+  Why ? <br>
+  When ? <br>
+
+### Rules
+  This is where we put our rules
+  
+### Members
+  #### Team leader
+      
+<table border="1">
+    <tr>
+        <th colspan="4">MEMBERS</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Hoàng</td>
+        <td>ID</td>
+        <td>Nam</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Đỗ Minh Quân</td>
+        <td>ITITIU20282</td>
+        <td>Nam</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Vũ Ngọc Thịnh</td>
+        <td>ITITIU20118</td>
+        <td>Nam</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Sơn</td>
+      <td>ID</td>
+      <td>Nam</td>
+    </tr>
+</table>
+  
