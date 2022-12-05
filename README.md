@@ -19,16 +19,16 @@
 ## 📖Table of contents
 
 * [About](#about)
-  * [General Information](#general-information)
-  * [Rules](#rules)
-  * [Members](#members)
-  * [Technologies](#technologies)
-* [Set Up](#set-up)
-  * [Launch](#launch)
-  * [License](#license)
-* [Features](#features)
-* [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
+  * [ℹ️General Information](#ℹ️-general-information)
+  * [📜Rules](#📜-rules)
+  * [👥Members](#👥-members)
+  * [💻Technologies](#💻-technologies)
+* [⚙️Set Up](#⚙️-set-up)
+  * [🕹️Launch](#🕹️-launch)
+  * [📝License](#📝-license)
+* [💡Features](#💡-features)
+* [⏰Project Status](#⏰-project-status)
+* [🎗Acknowledgements](#🎗-acknowledgements)
 
 ---
   
