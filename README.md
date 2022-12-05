@@ -35,21 +35,26 @@
   
 ## About
 
-### General Information
+### ℹ️ General Information
   What ? <br>
   Why ? <br>
   When ? <br>
 
-### Rules
+### 📜 Rules
   This is where we put our rules
   
-### Members
-  #### Team leader
+### 👥 Members
+  #### 👑 Team leader
       
 <table border="1">
     <tr>
         <th colspan="4">MEMBERS</th>
     </tr>
+    <tr>
+        <td>No.</td>
+        <td>Name</td>
+        <td>ID</td>
+        <td>Contact</td>
     <tr>
         <td>1</td>
         <td>Hoàng</td>
@@ -60,7 +65,7 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
-        <td>Nam</td>
+        <td>[Github](</td>
     </tr>
     <tr>
         <td>3</td>
@@ -70,8 +75,8 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>Sơn</td>
-      <td>ID</td>
+      <td>Trần Nguyễn Công Sơn</td>
+      <td>ITITIU20296</td>
       <td>Nam</td>
     </tr>
 </table>
