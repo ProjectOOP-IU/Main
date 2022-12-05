@@ -83,7 +83,9 @@
       <td>4</td>
       <td>Trần Nguyễn Công Sơn</td>
       <td>ITITIU20296</td>
-      <td>Nam</td>
+      <td>
+        <a href="https://github.com/gekiruken12345">Github</a>
+      </td>
     </tr>
 </table>
   
