@@ -1,4 +1,10 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 🏎️ Car racing game 🏎️
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+</p>
+
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/91871662/205557445-cd4ee30c-fa5f-445a-8f69-a0bc86479ea1.jpg" width = "320" height = "200"/>
+
+---
+
+# 📖Table of contents
