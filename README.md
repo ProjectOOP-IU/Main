@@ -29,7 +29,6 @@
 * [Features](#features)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
-* [Read more](#read-more)
 
 ---
   
@@ -41,7 +40,7 @@
   When ? <br>
 
 ### 📜 Rules
-  This is where we put our rules
+- Xong hết đi đã
   
 ### 👥 Members
   #### 👑 Team leader
@@ -106,9 +105,23 @@
 ### 🕹️ Launch
 - To run this project, you will need <a href="https://code.visualstudio.com">VS Code</a> 
 - Install the game by:
-  - <>
+  - Xong hết đi đã
 
 ### 📝 License
 - Để cái này cuối cùng đi
 
-### Features
+## 💡 Features
+- Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
+
+## Project status
+Unfinished :<
+
+## Acknowledgements
+- Lấy cảm hứng từ đâu ?
+- Các trang web tham khảo
+- Và cảm ơn thầy trong quá trình học
+
+- T muốn import một cái hình thank you ở đây nhưng chưa kiếm được hình đẹp nên từ từ
+
+---
+
