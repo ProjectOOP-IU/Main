@@ -19,30 +19,30 @@
 ## 📖Table of contents
 
 * [About](#about)
-  * [ℹ️General Information](#ℹ️-general-information)
-  * [Rules](#-rules)
-  * [👥Members](#-members)
-  * [Technologies](#-technologies)
-* [Set Up](#-set-up)
-  * [Launch](#-launch)
-  * [License](#-license)
-* [Features](#-features)
-* [Project Status](#-project-status)
-* [Acknowledgements](#-acknowledgements)
+  * [General Information](#general-information)
+  * [Rules](#rules)
+  * [Members](#members)
+  * [Technologies](#technologies)
+* [Set Up](#set-up)
+  * [Launch](#launch)
+  * [License](#license)
+* [Features](#features)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
 
 ---
   
 ## About
 
-### ℹ️ General Information
+### General Information
   What ? <br>
   Why ? <br>
   When ? <br>
 
-### 📜 Rules
+### Rules
 - Xong hết đi đã
   
-### 👥 Members
+### Members
   #### 👑 Team leader
       - Tên đứa nào đó
 <table border="1">
@@ -93,30 +93,30 @@
     </tr>
 </table>
 
-### 💻 Technologies
+### Technologies
 - ![java_24x24](https://user-images.githubusercontent.com/99407775/169029133-7f054149-020d-4853-91dd-942b9d4045c0.png) Java
 - <a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html">Oracle JDK 19</a>
 - <a href="https://code.visualstudio.com">VS Code</a>
 
 ---
 
-## ⚙️ Set up
+## Set up
 
-### 🕹️ Launch
+### Launch
 - To run this project, you will need <a href="https://code.visualstudio.com">VS Code</a> 
 - Install the game by:
   - Xong hết đi đã
 
-### 📝 License
+### License
 - Để cái này cuối cùng đi
 
-## 💡 Features
+## Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
 
-## ⏰ Project status
+## Project status
 Unfinished :<
 
-## 🎗 Acknowledgements
+## Acknowledgements
 - Lấy cảm hứng từ đâu ?
 - Các trang web tham khảo
 - Và cảm ơn thầy trong quá trình học
