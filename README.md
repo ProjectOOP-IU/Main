@@ -113,10 +113,10 @@
 ## 💡 Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
 
-## Project status
+## ⏰ Project status
 Unfinished :<
 
-## Acknowledgements
+## 🎗 Acknowledgements
 - Lấy cảm hứng từ đâu ?
 - Các trang web tham khảo
 - Và cảm ơn thầy trong quá trình học
