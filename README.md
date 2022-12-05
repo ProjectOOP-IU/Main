@@ -54,11 +54,13 @@
         <td>No.</td>
         <td>Name</td>
         <td>ID</td>
+        <td>Main Contributions</td>
         <td>Contact</td>
     <tr>
         <td>1</td>
         <td>Hoàng</td>
         <td>ID</td>
+        <td> </td>
         <td>
           <a href="https://github.com/HoangLeCoder">Github</a>
         </td>
@@ -67,6 +69,7 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
+        <td> </td>
         <td>
           <a href="https://github.com/ITITIU20282">Github</a>
         </td>
@@ -75,6 +78,7 @@
         <td>3</td>
         <td>Vũ Ngọc Thịnh</td>
         <td>ITITIU20118</td>
+        <td> </td>
         <td>
           <a href="https://github.com/Vuz7122">Github</a>
         </td>
@@ -83,6 +87,7 @@
       <td>4</td>
       <td>Trần Nguyễn Công Sơn</td>
       <td>ITITIU20296</td>
+      <td> </td>
       <td>
         <a href="https://github.com/gekiruken12345">Github</a>
       </td>
