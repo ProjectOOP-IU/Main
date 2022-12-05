@@ -24,7 +24,7 @@
   * [👥Members](#-members)
   * [Technologies](#-technologies)
 * [Set Up](#-set-up)
-  * [🕹️Launch](#🕹️-launch)
+  * [Launch](#-launch)
   * [License](#-license)
 * [Features](#-features)
 * [Project Status](#-project-status)
