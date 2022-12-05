@@ -67,13 +67,17 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
-        <td>[Github](</td>
+        <td>
+          <a href="https://github.com/ITITIU20282">Github</a>
+        </td>
     </tr>
     <tr>
         <td>3</td>
         <td>Vũ Ngọc Thịnh</td>
         <td>ITITIU20118</td>
-        <td>Nam</td>
+        <td>
+          <a href="https://github.com/Vuz7122">Github</a>
+        </td>
     </tr>
     <tr>
       <td>4</td>
