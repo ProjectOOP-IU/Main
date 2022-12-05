@@ -20,15 +20,15 @@
 
 * [About](#about)
   * [ℹ️General Information](#ℹ️-general-information)
-  * [📜Rules](#📜-rules)
-  * [👥Members](#👥-members)
-  * [💻Technologies](#💻-technologies)
-* [⚙️Set Up](#⚙️-set-up)
+  * [Rules](#-rules)
+  * [👥Members](#-members)
+  * [Technologies](#-technologies)
+* [Set Up](#-set-up)
   * [🕹️Launch](#🕹️-launch)
-  * [📝License](#📝-license)
-* [💡Features](#💡-features)
-* [⏰Project Status](#⏰-project-status)
-* [🎗Acknowledgements](#🎗-acknowledgements)
+  * [License](#-license)
+* [Features](#-features)
+* [Project Status](#-project-status)
+* [Acknowledgements](#-acknowledgements)
 
 ---
   
