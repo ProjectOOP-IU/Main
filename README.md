@@ -35,9 +35,9 @@
 ## About
 
 ### General Information
-  What ? <br>
-  Why ? <br>
-  When ? <br>
+  - What ? <br>
+  - Why ? <br>
+  - When ? <br>
 
 ### Rules
 - Xong hết đi đã
