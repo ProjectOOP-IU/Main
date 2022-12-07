@@ -44,7 +44,7 @@
   
 ### Members
   #### 👑 Team leader
-      - Tên đứa nào đó
+      - Lê Cao Nhật Hoàng_ITITIU20205
 <table border="1">
     <tr>
         <th colspan="4">MEMBERS</th>
@@ -57,8 +57,8 @@
         <td>Contact</td>
     <tr>
         <td>1</td>
-        <td>Hoàng</td>
-        <td>ID</td>
+        <td>Lê Cao Nhật Hoàng</td>
+        <td>ITITIU20205</td>
         <td> </td>
         <td>
           <a href="https://github.com/HoangLeCoder">Github</a>
