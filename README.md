@@ -1,4 +1,4 @@
-# 💣 World War 3 💣
+# 🚀 World War 3 🚀
 
 </p>
 
