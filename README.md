@@ -1,18 +1,18 @@
-# 🏎️ Car racing game 🏎️
+# 💣 World War 3 💣
 
 </p>
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/91871662/205557445-cd4ee30c-fa5f-445a-8f69-a0bc86479ea1.jpg" width = "320" height = "200"/>
+<img src = "[https://user-images.githubusercontent.com/91871662/205557445-cd4ee30c-fa5f-445a-8f69-a0bc86479ea1.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "320" height = "200"/>
 
 ---
   
 <p align="center">
-<img src = "https://e1.yotools.net/images/user_image/2022/12/638d921fd3865.jpg" width = "500" height = " 400"/>
+<img src = "[https://e1.yotools.net/images/user_image/2022/12/638d921fd3865.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "500" height = " 400"/>
 <br>
 Đây là nơi để Illustrations
 <br>
-🎮 Game Project developed by team [] 🎮
+🎮 Game Project developed by team [ để tên team hoặc cái j đó nhận dạng team trên đây ] 🎮
 
 ---
 
@@ -82,17 +82,11 @@
           <a href="https://github.com/Vuz7122">Github</a>
         </td>
     </tr>
-    <tr>
-      <td>4</td>
-      <td>Trần Nguyễn Công Sơn</td>
-      <td>ITITIU20296</td>
-      <td> </td>
-      <td>
-        <a href="https://github.com/gekiruken12345">Github</a>
-      </td>
-    </tr>
 </table>
 
+[ import thêm mail và fb vô phần contact cũng đc ]
+
+---
 ### Technologies
 - ![java_24x24](https://user-images.githubusercontent.com/99407775/169029133-7f054149-020d-4853-91dd-942b9d4045c0.png) Java
 - <a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html">Oracle JDK 19</a>
@@ -108,7 +102,7 @@
   - Xong hết đi đã
 
 ### License
-- Để cái này cuối cùng đi
+- Cái này đợi t đọc coi mấy cái license trên mạng như thế nào rồi t ghi vô sau :))
 
 ## Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
@@ -121,7 +115,10 @@ Unfinished :<
 - Các trang web tham khảo
 - Và cảm ơn thầy trong quá trình học
 
-- T muốn import một cái hình thank you ở đây nhưng chưa kiếm được hình đẹp nên từ từ
+---
+<p align="center">
+<img src = "[https://e1.yotools.net/images/user_image/2022/12/638d921fd3865.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "500" height = " 400"/>
+
 
 ---
 
