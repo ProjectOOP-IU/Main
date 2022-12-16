@@ -38,7 +38,7 @@
   - This is our project created by our team to complete our Object-Oriented Progamming Course <br>
   - Game name : World War 3 <br>
   - Category : Multiplayers, 2D, role-playing, Action <br>
-  - About : The context of the game depicts the war between Russia and Ukraine but in a lighter version. In this version, we will transform into Russia and Ukraine in a fair war, trying to survive as long as possible from special missiles (Although the advantage is slightly on Russia's side, the Life is never fair, right ?)
+  - About : The context of the game depicts the war between Russia and Ukraine but in a lighter version. In this version, we will transform into Russia and Ukraine in a fair war, trying to survive as long as possible from special missiles ( Although the advantage is slightly on Russia's side, the Life is never fair, right ? )
 
 ### Rules
 - Xong hết đi đã
