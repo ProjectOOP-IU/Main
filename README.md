@@ -118,7 +118,7 @@ Unfinished :<
 
 ---
 <p align="center">
-<img src = "[https://e1.yotools.net/images/user_image/2022/12/638d921fd3865.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "500" height = " 400"/>
+<img src = "https://staffino.com/blog/wp-content/uploads/2016/09/a4b71c9ee8e4e65def2d8a3f6590ce940b0257cdc51f1fd343e51281d8c3054c.jpg" width = "550" height = " 400"/>
 
 
 ---
