@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<img src = "[https://user-images.githubusercontent.com/91871662/205557445-cd4ee30c-fa5f-445a-8f69-a0bc86479ea1.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "320" height = "200"/>
+<img src = "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/09/EPRS_BRIE_TT_733632_War_Ukraine_six_months_on_final.png?fit=820%2C546&ssl=1" width = "320" height = "200"/>
 
 ---
   
 <p align="center">
-<img src = "[https://e1.yotools.net/images/user_image/2022/12/638d921fd3865.jpg](https://img.freepik.com/premium-vector/pixel-censored-sign-black-censor-bar-concept-icon-isolated-white-background_705714-561.jpg?w=2000)" width = "500" height = " 400"/>
+<img src = "https://phando021.s.llnwi.net/public/upload/news/story_mul_image_1647496345_8.jpg" width = "500" height = " 400"/>
 <br>
 Đây là nơi để Illustrations
 <br>
