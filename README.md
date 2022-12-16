@@ -35,9 +35,10 @@
 ## About
 
 ### General Information
-  - What ? <br>
-  - Why ? <br>
-  - When ? <br>
+  - This is our project created by our team to complete our Object-Oriented Progamming Course <br>
+  - Game name : World War 3 <br>
+  - Category : Multiplayers, 2D, role-playing, Action <br>
+  - About :
 
 ### Rules
 - Xong hết đi đã
