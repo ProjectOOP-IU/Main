@@ -91,7 +91,7 @@
 ### Technologies
 - ![java_24x24](https://user-images.githubusercontent.com/99407775/169029133-7f054149-020d-4853-91dd-942b9d4045c0.png) Java
 - <a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html">Oracle JDK 19</a>
-- <a href="https://code.visualstudio.com">VS Code</a>
+- <a href="https://www.eclipse.org">Eclipse</a>
 
 ---
 
