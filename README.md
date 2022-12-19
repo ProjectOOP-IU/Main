@@ -8,7 +8,7 @@
 ---
   
 <p align="center">
-<img src = "https://phando021.s.llnwi.net/public/upload/news/story_mul_image_1647496345_8.jpg" width = "500" height = " 400"/>
+<img src = "https://textpro.me/images/user_image/2022/12/63a00055c9653.jpg" width = "600" height = " 450"/>
 <br>
 Đây là nơi để Illustrations
 <br>
