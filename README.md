@@ -9,10 +9,9 @@
   
 <p align="center">
 <img src = "https://e2.yotools.net/images/user_image/2022/12/63aac36f037fe.jpg" width = "600" height = " 450"/>
+
 <br>
-Đây là nơi để Illustrations
-<br>
-🎮 Game Project developed by team [ để tên team hoặc cái j đó nhận dạng team trên đây ] 🎮
+🎮 Game Project developed by team [] 🎮
 
 ---
 
@@ -41,7 +40,9 @@
   - About : The context of the game depicts the war between Russia and Ukraine but in a lighter version. In this version, we will transform into Russia and Ukraine in a fair war, trying to survive as long as possible from special missiles ( Although the advantage is slightly on Russia's side, the Life is never fair, right ? )
 
 ### Rules
-- Xong hết đi đã
+- Each player will have a different way of moving. Try to dodge bullets, there are many different types of bullets
+- Player 1 will use [ W, S, A, D ] , player 2 will use arrow up dow left right to play
+- Survive as long as possible, the score will belong to the last survivor.
   
 ### Members
   #### 👑 Team leader
@@ -60,7 +61,7 @@
         <td>1</td>
         <td>Lê Cao Nhật Hoàng</td>
         <td>ITITIU20205</td>
-        <td> </td>
+        <td>Brainstorm, implement ideas, code games and fix bugs</td>
         <td>
           <a href="https://github.com/HoangLeCoder">Github</a>
         </td>
@@ -69,7 +70,7 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
-        <td> </td>
+        <td>In charge of readme, report file and powerpoint for presentations</td>
         <td>
           <a href="https://github.com/ITITIU20282">Github</a>
         </td>
@@ -78,14 +79,12 @@
         <td>3</td>
         <td>Vũ Ngọc Thịnh</td>
         <td>ITITIU20118</td>
-        <td> </td>
+        <td>Draw diagrams, support ideas and images, be in charge of demos and fix bugs</td>
         <td>
           <a href="https://github.com/Vuz7122">Github</a>
         </td>
     </tr>
 </table>
-
-[ import thêm mail và fb vô phần contact cũng đc ]
 
 ---
 ### Technologies
