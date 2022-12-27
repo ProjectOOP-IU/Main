@@ -24,7 +24,6 @@
   * [Technologies](#technologies)
 * [Set Up](#set-up)
   * [Launch](#launch)
-  * [License](#license)
 * [Features](#features)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -100,9 +99,6 @@
 - To run this project, you will need <a href="https://code.visualstudio.com">VS Code</a> 
 - Install the game by:
   - Xong hết đi đã
-
-### License
-- Cái này đợi t đọc coi mấy cái license trên mạng như thế nào rồi t ghi vô sau :))
 
 ## Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
