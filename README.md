@@ -99,7 +99,7 @@
 ### Launch
 - To run this project, you will need <a href="https://www.eclipse.org">Eclipse</a> 
 - Install the game by:
-  - Download and clone all files to your computer, turn on eclipse and open the downloaded folder, find src -> click on Game class -> run class -> start enjoying the game
+  - Download and copy the link to clone it, turn on eclipse, follow the tutorial, Once you've opened it -> click on Game class -> run class -> start enjoying the game
   - <a href="https://openplanning.net/13081/su-dung-eclipse-de-clone-mot-github-repository-voi-nhieu-project">Link tutorial</a>
 
 ## Architecture
