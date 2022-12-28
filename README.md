@@ -69,7 +69,7 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
-        <td>In charge of readme, report file and powerpoint for presentations</td>
+        <td>In charge of readme, report file, help find and fix bugs</td>
         <td>
           <a href="https://github.com/ITITIU20282">Github</a>
         </td>
