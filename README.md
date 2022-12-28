@@ -11,7 +11,7 @@
 <img src = "https://e2.yotools.net/images/user_image/2022/12/63aac36f037fe.jpg" width = "600" height = " 450"/>
 
 <br>
-🎮 Game Project developed by team [] 🎮
+🎮 Game Project developed by team [AMERICA THO] 🎮
 
 ---
 
