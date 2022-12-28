@@ -69,7 +69,7 @@
         <td>2</td>
         <td>Đỗ Minh Quân</td>
         <td>ITITIU20282</td>
-        <td>In charge of readme, report file, help find and fix bugs</td>
+        <td>In charge of github, report file, technical support</td>
         <td>
           <a href="https://github.com/ITITIU20282">Github</a>
         </td>
@@ -101,8 +101,17 @@
   - Download and clone all files to your computer, turn on eclipse and open the downloaded folder, find src -> click on Game class -> run class -> start enjoying the game
 
 ## Features
-- Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
 
+---
+<p align="center">
+<img src = "https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/317496620_703189048049263_5577689442589139819_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=sFNQ0UHaGRIAX-7zU1z&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdRgVZenAmPDZq4bPUJ09TlhhNbPO8n3ygYejyCyYqn65A&oe=63D3BC64" width = "500" heght = "500"/>
+<img src = "https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/318077792_1348791909204890_8658161192667486997_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=krONBOXYvZAAX90I514&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdQPScJRWerbnoKVF-5mvNCXO0DvsLotHj_37FqTM_7rcA&oe=63D3BF30" width = "500" heght = "500"/>
+<img src = "https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.15752-9/317366516_836155987609012_2633839190433398631_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YwXowpSNsC8AX_6VTeT&_nc_ht=scontent.fsgn2-1.fna&oh=03_AdR_13eoxATKcuuBC6fw7pjxmAvDwHkHhjD9BD7ozpJlVA&oe=63D3B5C3" width = "500" heght = "500"/>
+<img src = "https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/318648232_402844875353449_4007804137389725141_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=h8YOU31imTEAX8sRbY9&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdT0Xta9kY3io9ukKm29i3dhBXsyK0Xsq4l8FtRY7tUkIg&oe=63D3D397" width = "500" heght = "500"/>
+<img src = "https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/316767360_553723520103303_1846030220685124076_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BVa-3vAfnXkAX9S7ta4&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdR5doaFuXKF2OYvDnT0Wszf6AwpQFw2kl4QuXlE4DYG1w&oe=63D3B1AB" width = "500" heght = "500"/>
+
+
+---
 ## Project status
 Unfinished :<
 
