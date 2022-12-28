@@ -96,9 +96,9 @@
 ## Set up
 
 ### Launch
-- To run this project, you will need <a href="https://code.visualstudio.com">VS Code</a> 
+- To run this project, you will need <a href="https://www.eclipse.org">Eclipse</a> 
 - Install the game by:
-  - Xong hết đi đã
+  - 
 
 ## Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
