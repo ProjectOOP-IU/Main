@@ -121,7 +121,7 @@ We have completed our mission :D
   - <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git,Github tutorial</a>
   - <a href="https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project">Readme tutorial</a>
   - <a href="https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa">Java code game tutorial</a>
-- Và cảm ơn thầy trong quá trình học
+- And especially, it is indispensable for the knowledge that Mr. Tung taught last semester. Once again, many thanks to you, Mr. Tung for guiding us
 
 ---
 <p align="center">
