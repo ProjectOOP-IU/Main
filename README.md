@@ -24,6 +24,7 @@
   * [Technologies](#technologies)
 * [Set Up](#set-up)
   * [Launch](#launch)
+* [Architecture](#architecture)
 * [Features](#features)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -99,6 +100,11 @@
 - To run this project, you will need <a href="https://www.eclipse.org">Eclipse</a> 
 - Install the game by:
   - Download and clone all files to your computer, turn on eclipse and open the downloaded folder, find src -> click on Game class -> run class -> start enjoying the game
+
+## Architecture
+
+<p align="center">
+<img src = "https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/322124011_3088547711442979_5056248943482456893_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=poJkE7p6qTgAX-oAerK&_nc_ht=scontent.fsgn2-2.fna&oh=03_AdQ72TKdX9dNPyRgWChb1YXVJ47wWx-zCV-hW4jx20SPcQ&oe=63D3C200" width="600" height="900"/>
 
 ## Features
 
