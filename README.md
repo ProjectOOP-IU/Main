@@ -113,11 +113,14 @@
 
 ---
 ## Project status
-Unfinished :<
+We have completed our mission :D 
 
 ## Acknowledgements
-- Lấy cảm hứng từ đâu ?
-- Các trang web tham khảo
+- This game is inspired by the ongoing war between Russia and Ukraine. In order to spread peace in a positive way, we have made a light war version
+- Here are a few websites we consulted to complete our project:
+  - <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git,Github tutorial</a>
+  - <a href="https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project">Readme tutorial</a>
+  - <a href="https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa">Java code game tutorial</a>
 - Và cảm ơn thầy trong quá trình học
 
 ---
