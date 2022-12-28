@@ -98,7 +98,7 @@
 ### Launch
 - To run this project, you will need <a href="https://www.eclipse.org">Eclipse</a> 
 - Install the game by:
-  - 
+  - Download and clone all files to your computer, turn on eclipse and open the downloaded folder, find src -> click on Game class -> run class -> start enjoying the game
 
 ## Features
 - Phần này để mình cho thầy coi các file hình ảnh và âm thanh xài trong game
